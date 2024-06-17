@@ -1,6 +1,6 @@
 ##### DataHack-Hackathon-by-GFG
 ## Important Files
-1. The submission file ***submit_final_RFC.csv***which contains the predicted data according to the model
+1. The submission file ***submit_final_RFC.csv*** which contains the predicted data according to the model
 2. The practice.ipynb file is the jupyter notebook in which all the data processing takes place
 ## Other Files
 1. The Problem Description File contains the Problem Statement
